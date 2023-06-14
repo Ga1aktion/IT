@@ -1,0 +1,200 @@
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.exe
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.deps.json
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.json
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.dev.json
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\ref\FIX-Autoparts.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.pdb
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Form1.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.GenerateResource.cache
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfoInputs.cache
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfo.cs
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CoreCompileInputs.cache
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\ref\FIX-Autoparts.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.pdb
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.genruntimeconfig.cache
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Properties.Resources.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll.config
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CopyComplete
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Authorization.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Mess.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Profile.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Registration.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Code.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.AssemblyReference.cache
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminMenu.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminOpen.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.LookInfo.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.PromoInfo.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.SpareInfo.resources
+D:\учеба\Курсачи\Сергеев магазин автозапчастей\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.StockInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.exe
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll.config
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.deps.json
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.json
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.dev.json
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.AssemblyReference.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminMenu.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminOpen.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Authorization.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Code.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Form1.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.LookInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Mess.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Profile.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.PromoInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Properties.Resources.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Registration.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.SpareInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.StockInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.GenerateResource.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfoInputs.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfo.cs
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CoreCompileInputs.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CopyComplete
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\refint\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.genruntimeconfig.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts 2\FIX-Autoparts\obj\Debug\net5.0-windows\ref\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.exe
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll.config
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.deps.json
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.json
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.dev.json
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.AssemblyReference.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminMenu.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminOpen.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Authorization.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Code.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Form1.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.LookInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Mess.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Profile.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.PromoInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Properties.Resources.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Registration.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.SpareInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.StockInfo.resources
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.GenerateResource.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfoInputs.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfo.cs
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CoreCompileInputs.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CopyComplete
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\refint\FIX-Autoparts.dll
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.genruntimeconfig.cache
+C:\Users\Galaktion\Desktop\FIX-Autoparts\obj\Debug\net5.0-windows\ref\FIX-Autoparts.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.exe
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll.config
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.deps.json
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.json
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.dev.json
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.AssemblyReference.cache
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminMenu.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminOpen.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Authorization.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Code.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Form1.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.LookInfo.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Mess.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Profile.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.PromoInfo.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Properties.Resources.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Registration.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.SpareInfo.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.StockInfo.resources
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.GenerateResource.cache
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfoInputs.cache
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfo.cs
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CoreCompileInputs.cache
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CopyComplete
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\refint\FIX-Autoparts.dll
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.genruntimeconfig.cache
+C:\Users\Galaktion\Documents\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\ref\FIX-Autoparts.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.exe
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll.config
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.deps.json
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.json
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.runtimeconfig.dev.json
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.AssemblyReference.cache
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminMenu.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.AdminOpen.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Authorization.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Code.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Form1.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.LookInfo.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Mess.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Profile.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.PromoInfo.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Properties.Resources.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.Registration.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.SpareInfo.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX_Autoparts.StockInfo.resources
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.GenerateResource.cache
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfoInputs.cache
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.AssemblyInfo.cs
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CoreCompileInputs.cache
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.csproj.CopyComplete
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\refint\FIX-Autoparts.dll
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.pdb
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\FIX-Autoparts.genruntimeconfig.cache
+C:\Users\nik-s\OneDrive\Документы\3 курс\1 семестр\FIX-Autoparts\obj\Debug\net5.0-windows\ref\FIX-Autoparts.dll

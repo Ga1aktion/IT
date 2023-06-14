@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FIX_Autoparts.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAABEhAAAQAAIAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.ContextBD" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAASAQAAAAgAAAAAAAEAABAQAAAAA=</HashCode>
+      <FileName>ContextBd\ContextBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Buyer" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Cheque" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAgA=</HashCode>
+      <FileName>Models\Cheque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Client" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIEAAEgEAAAAgAAAgA=</HashCode>
+      <FileName>Models\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Message" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.PromoCode" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>Models\PromoCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.SparePart" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAQAAgAAACAQAAAAAFAIIAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\SparePart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Stock" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>Models\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.AdminMenu" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.AdminOpen" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAgQACAIAIAAAAEEAEAAEAEAg=</HashCode>
+      <FileName>AdminOpen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Authorization" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABEAAACAgQACBIAYAAAAEGAkAAEAEAg=</HashCode>
+      <FileName>Authorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Code" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAQCAAABAAAACAAAAiAAA4AAkCEHAgAAAAEAg=</HashCode>
+      <FileName>Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Form1" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MZCQIxQEQCkwEVEUCCCAwQQCkMA4AEADsHMsQwlcFQg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.LookInfo" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAQAACAgQACAIgAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>LookInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Mess" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABAAAACAAAACAAAYAAAAEGAwAAAAEAg=</HashCode>
+      <FileName>Mess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Profile" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAQAAQCAABBECABCAgQBCBJA5CAASMHAmAAEAEAg=</HashCode>
+      <FileName>Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Program" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.PromoInfo" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAgABAQAACAAAACAAAYAAgAEGAgAAAAEAg=</HashCode>
+      <FileName>PromoInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.Registration" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAQAAACAAABAAAACAAABCBAAYAAAAEGAgAAAAEAg=</HashCode>
+      <FileName>Registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.SpareInfo" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAQAAQCAgABAQAACCgQBCAMA4AAgCEHAsQABAEAg=</HashCode>
+      <FileName>SpareInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FIX_Autoparts.StockInfo" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAgABAQAACAAAACAAAYAAgAEGAgAAAAEAg=</HashCode>
+      <FileName>StockInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
